@@ -1,0 +1,6 @@
+@ToutPourLeMuscle.Server_HostAddress = http://localhost:5249
+
+GET {{ToutPourLeMuscle.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
